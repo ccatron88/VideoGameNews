@@ -1,0 +1,19 @@
+{
+    "websiteOne": {
+        "website": "https://kotaku.com/overwatch-halloween-battle-pass-kiriko-skin-blizzard-1849704761",
+        "image": "../../../img/overwatch.webp",
+        "headline": "example text"
+    },
+
+    "websiteTwo": {
+        "website": "example.com",
+        "image": "example.jpg",
+        "headline": "example text"
+    },
+
+    "websiteThree": {
+        "website": "example.com",
+        "image": "example.jpg",
+        "headline": "example text"
+    }
+}
